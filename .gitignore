@@ -12,3 +12,4 @@ Cargo.lock
 *.aria2
 *.gz
 *.rar
+.env/
